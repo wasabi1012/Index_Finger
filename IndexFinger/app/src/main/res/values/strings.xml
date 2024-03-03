@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Index Finger</string>
+    <string name="let_s_scan">Let\'s Scan</string>
+    <string name="gs1code">GS1Code</string>
+    <string name="metags1code">MetaGS1Code</string>
+    <string name="format">Format</string>
+    <string name="packageInsert">添付文書</string>
+    <string name="downloadButtonWhite">downloadButtonWhite</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="todo">TODO</string>
+    <string name="todoto">TODO</string>
+</resources>

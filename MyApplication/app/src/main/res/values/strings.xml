@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">検索サンプル</string>
+    <string name="tv_msg">コードを入力してください。</string>
+    <string name="bt_save">検索</string>
+</resources>
